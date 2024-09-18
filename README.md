@@ -14,6 +14,8 @@ Join our Telegram group to stay updated and get instructions on how to use this 
 git clone https://github.com/ongkang-ongkang/hk-tools.git
 cd hk-tools
 ```
+
+- On Airdrop folder
 ```
 npm install
 npm install node-telegram-bot-api
