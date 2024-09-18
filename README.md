@@ -11,7 +11,7 @@ Join our Telegram group to stay updated and get instructions on how to use this 
 
 - Linux / Termux
 ```
-git clone git clone https://github.com/ongkang-ongkang/hk-tools.git
+git clone https://github.com/ongkang-ongkang/hk-tools.git
 cd hk-tools
 ```
 ```
