@@ -15,7 +15,8 @@ git clone https://github.com/ongkang-ongkang/hk-tools.git
 cd hk-tools
 ```
 ```
-pip install python-telegram-bot
+npm install
+npm install node-telegram-bot-api
 ```
 
 ## 💱 Support Me
